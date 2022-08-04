@@ -1,0 +1,22 @@
+{
+  "name": "tarea-clase-27",
+  "version": "1.0.0",
+  "description": "Primera tarea de Backend Numen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaimar-dev/numen-tarea-27.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnaimar-dev/numen-tarea-27/issues"
+  },
+  "homepage": "https://github.com/mnaimar-dev/numen-tarea-27#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
